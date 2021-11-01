@@ -1,2 +1,6 @@
 soy el color rojo
+<<<<<<< HEAD
 soy dos veces el color rojo
+=======
+soy la modificación del punto 7, parte A
+>>>>>>> c8a0c372820549f497eb7b754e145728451c4fa5
